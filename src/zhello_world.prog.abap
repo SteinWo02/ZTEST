@@ -4,4 +4,4 @@
 *&
 *&---------------------------------------------------------------------*
 REPORT ZHELLO_WORLD.
-WRITE 'Hello World'.
+WRITE 'Hello World. This is an ABAP Git Test'.
